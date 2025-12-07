@@ -16,7 +16,7 @@
 
 ---
 
-### Изучаемые языки
+### Инструменты и языки
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=lua,python,js,html,css,git,github,vscode" height="50">
