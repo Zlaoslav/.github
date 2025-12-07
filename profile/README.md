@@ -32,6 +32,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Zlaoslav&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4%22%20height=%22150%22%20alt=%22trophy%20graph" height="190">
 </p>
+
 ---
 
 > *"Вы доверяете нам достаточно, чтобы использовать наши программы, и мы просим вас довериться нам вновь.  
