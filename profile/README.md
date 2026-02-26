@@ -1,5 +1,6 @@
 <h1 align="center">Привет, я Zlaoslav</h1>
 <p align="center">
+  Или просто Славик.
 Программист на языках: Luau, Python и JavaScript
 </p>
 
