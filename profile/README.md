@@ -36,6 +36,7 @@
 <p align="center">
   <img src="https://pollpi.slavi.workers.dev/daily_ping.svg" height="190" alt="Daily Ping">
 </p>
+
 ---
 
 > *"Вы доверяете нам достаточно, чтобы использовать наши программы, и мы просим вас довериться нам вновь.  
