@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Zlaoslav</h1>
 <p align="center">
   Или просто Славик.
-Программист на языках: Luau, Python и JavaScript
+Программист на языках: Luau, Python и Rust
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ### Инструменты и языки
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=lua,python,js,html,css,git,github,vscode" height="50">
+  <img src="https://skillicons.dev/icons?i=lua,python,rust,html,css,git,github,vscode" height="50">
 </div>
 
 ---
@@ -33,10 +33,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Zlaoslav&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4%22%20height=%22150%22%20alt=%22trophy%20graph" height="190">
 </p>
-<p align="center">
-  <img src="https://pollpi.slavi.workers.dev/daily_ping.svg" height="190" alt="Daily Ping">
-</p>
-
 ---
 
 > *"Вы доверяете нам достаточно, чтобы использовать наши программы, и мы просим вас довериться нам вновь.  
